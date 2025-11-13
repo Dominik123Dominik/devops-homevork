@@ -1,2 +1,0 @@
-# devops-homevork
-osiagnac chce
